@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Combate</title>
+<title>Genius Einstein</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Combate.xml</externallink>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SerieGeniusEinstein.xml</externallink>
 </item>
 
 <item>
@@ -30,4 +30,12 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/LaFamiliaMonster.xml</externallink>
+</item>
+
+<item>
+<title>Combate</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Combate.xml</externallink>
 </item>
