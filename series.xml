@@ -2,16 +2,16 @@
 
 <item>
 <title>Genius Einstein</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://images.mi.tv/programs/gt_genius-einstein-s01e07_l_m.jpg</thumbnail>
+<fanart>http://elvortex.com/wp-content/uploads/2017/06/5-things-about-einstein-0-550x268.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SerieGeniusEinstein.xml</externallink>
 </item>
 
 <item>
 <title>La Isla de la Fantasia</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Oe4Kke1C_s2e-GEDkYdguRdricokaVX1Q9p_nMvL5iw-hdNf</thumbnail>
+<fanart>https://teacordas.altervista.org/wp-content/uploads/2017/12/fantasy.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/LaIslaDeLaFantasia.xml</externallink>
 </item>
@@ -41,9 +41,9 @@
 </item>
 
 <item>
-<title>Combate</title>
+<title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Combate.xml</externallink>
+<externallink></externallink>
 </item>
