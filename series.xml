@@ -18,16 +18,16 @@
 
 <item>
 <title>Bonanza</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91ecug2XI%2BL._SY445_.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/bonanza-serie-de-tv-en-espanol-lat-D_NQ_NP_683305-MLU20866539623_082016-F.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Bonanza.xml</externallink>
 </item>
 
 <item>
 <title>La Familia Monster</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.toutelatele.com/IMG/jpg/les-monstres-maison.jpg</thumbnail>
+<fanart>http://d2vpb0i3hb2k8a.cloudfront.net/wp-content/uploads/sites/7/2017/08/12/the-monster-820x385.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/LaFamiliaMonster.xml</externallink>
 </item>
