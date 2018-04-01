@@ -27,3 +27,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Canal 5</title>        
+<urlsolve>http://esioslive-i.akamaihd.net/hls/live/201630/AL_ESP1_SP_SPA/playlist_400.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
