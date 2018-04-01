@@ -30,6 +30,13 @@
 
 <item>
 <title>Canal 5</title>        
+<urlsolve>http://cdnv.cli.tn/iptv/ch931?code=610116485444847</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Canal 5</title>        
 <urlsolve>http://201.87.232.214:25461/get.php?username=alexinova&password=04721620&type=m3u</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
