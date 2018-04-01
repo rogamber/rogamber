@@ -1,43 +1,114 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>Canal 1</title>        
-<urlsolve>http://cdnv.cli.tn/iptv/ch916?code=610116485444847</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+def iptvxtra_play():
+    xbmcPlayer = xbmc.Player()
+    idx = mode.replace("?playiptv=", "").replace("###", "|").replace("#x#", "?").replace("#h#", "http://").split('***')
+    xbmc.executebuiltin('XBMC.Notification('+idx[1]+' , IPTV ,5000,'+idx[2]+')')
+    listitem = xbmcgui.ListItem( idx[1], iconImage=idx[2], thumbnailImage=idx[2])
+    playlist = xbmc.PlayList( xbmc.PLAYLIST_VIDEO )
+    playlist.clear()
+    playlist.add(idx[0], listitem )
+    xbmcPlayer.play(playlist,None,False)
+    sys.exit(0)
 
-<item>
-<title>Canal 2</title>        
-<urlsolve>http://cdnv.cli.tn/iptv/ch922?code=610116485444847</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+def main():
+    add_video_item('http://ragnaroktv.com/hls/izzi/4/6/XHGC.m3u8'				,{ 'title': 'CHANNEL'}, icons + 'https://s4.aconvert.com/convert/p3r68-cdx67/27nqj-a1xv5.jpg')
+    add_video_item('http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8'				,{ 'title': 'CHANNEL'}, icons + 'https://s4.aconvert.com/convert/p3r68-cdx67/cb384-qajra.jpg')
+    add_video_item('http://media1.crtvg.es:1935/live/tvga/livestream.m3u8'				,{ 'title': ''}, icons + '')
+    add_video_item('http://media1.crtvg.es:1935/live/tvge/livestream.m3u8'				,{ 'title': ''}, icons + '')
+    add_video_item('http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8'				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
+    add_video_item(''				,{ 'title': ''}, icons + '')
 
-<item>
-<title>Canal 3</title>        
-<urlsolve>http://cdnv.cli.tn/iptv/ch937?code=610116485444847</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>Canal 4</title>        
-<urlsolve>http://cdnv.cli.tn/iptv/ch914?code=610116485444847</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+    # add_video_item(''				,{ 'title': ''}, icons + '')
+    # add_video_item(''				,{ 'title': ''}, icons + '')
+    # add_video_item(''				,{ 'title': ''}, icons + '')
+    # add_video_item(''				,{ 'title': ''}, icons + '')
+    # add_video_item(''				,{ 'title': ''}, icons + '')
 
-<item>
-<title>Canal 5</title>        
-<urlsolve>http://98.109.150.239:8004/play/a00s</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+    xbmcplugin.endOfDirectory(plugin_handle)
 
-<item>
-<title>Canal 6</title>        
-<link>http://98.109.150.239:8004/play/a00s</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+if 'playiptv' in mode:
+    iptvxtra_play()
+else:
+    main()
