@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Prueba 2</title>        
+<title>Sky sports HD</title>        
 <urlsolve>http://cdnv.cli.tn/iptv/ch916?code=610116485444847</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>Canal 2</title>        
+<urlsolve>http://cdnv.cli.tn/iptv/ch922?code=610116485444847</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
