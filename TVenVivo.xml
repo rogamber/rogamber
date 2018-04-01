@@ -30,14 +30,14 @@
 
 <item>
 <title>Canal 5</title>        
-<urlsolve>http://media1.crtvg.es:1935/live/tvga/livestream.m3u8</urlsolve>
+<urlsolve>http://cdnv.cli.tn/iptv/ch922?code=610116485444847</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Canal 6</title>        
-<link>http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8</link>
+<link>http://cdnv.cli.tn/iptv/ch922?code=610116485444847</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
