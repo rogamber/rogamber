@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Sky sports HD</title>        
+<title>Canal 1</title>        
 <urlsolve>http://cdnv.cli.tn/iptv/ch916?code=610116485444847</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -10,6 +10,13 @@
 <item>
 <title>Canal 2</title>        
 <urlsolve>http://cdnv.cli.tn/iptv/ch922?code=610116485444847</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Canal 3</title>        
+<urlsolve>http://cdnv.cli.tn/iptv/ch937?code=610116485444847</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
