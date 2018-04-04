@@ -2,7 +2,7 @@
 
 <item>
 <title>Canal 1</title>        
-<link>xbmcPlayer.play(http://ragnaroktv.com/hls/izzi/4/6/XHGC.m3u8,None,False)</link>
+<link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
