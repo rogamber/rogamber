@@ -2,7 +2,7 @@
 
 <item>
 <title>Canal 1</title>        
-<action>xbmcPlayer.play(http://ragnaroktv.com/hls/izzi/4/6/XHGC.m3u8,None,False)</action>
+<link>xbmcPlayer.play(http://ragnaroktv.com/hls/izzi/4/6/XHGC.m3u8,None,False)</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
