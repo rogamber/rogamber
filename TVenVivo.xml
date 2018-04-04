@@ -22,8 +22,8 @@
     </item>
     
 	<item>
-        <title>NHK - World</title>         
-        <link>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
+        <title>Once </title>         
+        <link>http://98.109.150.239:8004/play/a01b</link>
         <thumbnail>http://header_logo.gif</thumbnail>
     </item>
 	
