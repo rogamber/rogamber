@@ -11,12 +11,12 @@
     </items_info>
 
     <item>
-        <title>Cinecanal </title>
+        <title>Canal 14 PZ</title>
         <link>http://205.164.56.130:1935/tvsur81/tvsur81/chunklist_w695765533.m3u8</link>
         <genre>TV Costa Rica</genre>
         <info>Canal local Perez Zeledon, Costa Rica</info>
-        <fanart></fanart>
-		<thumbnail></thumbnail>
+        <fanart>https://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg?itok=DNBMfb1x</fanart>
+		<thumbnail>https://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg?itok=DNBMfb1x</thumbnail>
     </item>
     
 	
