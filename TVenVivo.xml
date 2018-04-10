@@ -12,24 +12,12 @@
 
     <item>
         <title>Cinecanal </title>
-        <link>http://98.109.150.239:8002/play/a015</link>
-        <thumbnail>http://channel.png</thumbnail>
-        <genre>Poker</genre>
-        <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-        <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>http://fanart.jpg</fanart>
+        <link>http://205.164.56.130:1935/tvsur81/tvsur81/chunklist_w695765533.m3u8</link>
+        <genre>TV Costa Rica</genre>
+        <info>Canal local Perez Zeledon, Costa Rica</info>
+        <fanart></fanart>
+		<thumbnail></thumbnail>
     </item>
     
-	<item>
-        <title>Deportes 1</title>         
-        <link>http://cdnv.cli.tn/iptv/ch931?code=610116485444847</link>
-        <thumbnail>http://header_logo.gif</thumbnail>
-    </item>
-	
-    <item>
-        <title>BBC World</title>         
-        <link>rtmp://some/place playpath=bbcworld1_en_high.sdp swfUrl="http://some/place/player.swf" pageUrl="http://some/place/10-bbc-world-news-english" swfVfy=true live=true</link>
-        <thumbnail>http://some/place.jpg</thumbnail>
 	
 </items>
