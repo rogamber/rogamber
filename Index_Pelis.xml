@@ -33,6 +33,30 @@
 </item>
 
 <item>
+<title>Anime</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Anime.xml</externallink>
+</item>
+
+<item>
+<title>Terror</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Terror.xml</externallink>
+</item>
+
+<item>
+<title>Cine Mexicano</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_CineMX.xml</externallink>
+</item>
+
+<item>
 <title>Western</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
