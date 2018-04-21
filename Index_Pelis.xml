@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
-<item>
-<title>Todas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Peliculas.xml</externallink>
-</item>
- 
+  
 <item>
 <title>Accion</title>
 <thumbnail></thumbnail>
@@ -25,11 +17,18 @@
 </item>
 
 <item>
-<title>Comicas</title>
+<title>Western</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Comicas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Western.xml</externallink>
 </item>
  
+ <item>
+<title>Todas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Peliculas.xml</externallink>
+</item>
  
