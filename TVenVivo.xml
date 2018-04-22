@@ -20,6 +20,24 @@
 		<thumbnail>https://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg?itok=DNBMfb1x</thumbnail>
     </item>
     
+	 <item>
+        <title>Canal 88 Stereo PZ,CR</title>
+        <link>http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>http://www.perezzeledon.net/wp-content/uploads/8811.gif</thumbnail>
+    </item>
+	
+	<item>
+        <title>Repretel</title>
+        <link>http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail></thumbnail>
+    </item>
+	
 	<item>
         <title>Canal FX</title>
         <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/fx-q3.php?index.m3u</link>
@@ -109,7 +127,6 @@
         <fanart></fanart>
 		<thumbnail>https://i.imgur.com/byu8ZMS.jpg</thumbnail>
     </item>
-	
 	
 	
 </items>
