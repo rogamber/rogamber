@@ -19,6 +19,15 @@
         <fanart>https://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg?itok=DNBMfb1x</fanart>
 		<thumbnail>https://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg?itok=DNBMfb1x</thumbnail>
     </item>
+	
+	<item>
+        <title>Canal Doutico</title>
+        <link>https://live11.userapi.com/613503/live/5IvK1RhAfwS3Pcsy/playlist.m3u8</link>
+        <genre>TV Costa Rica</genre>
+        <info>Doutico.com</info>
+        <fanart></fanart>
+		<thumbnail>https://lh3.ggpht.com/xgUZToq3X6gusCAtAgxl8VCCzLBb0mVw2SCqiaBys60-cxNLhj-5bh6Ro3FzsrLk2g=w720-h310</thumbnail>
+    </item>
     
 	 <item>
         <title>Canal 88 Stereo PZ,CR</title>
@@ -37,6 +46,17 @@
         <fanart></fanart>
 		<thumbnail>https://i.imgur.com/ozXOprX.png</thumbnail>
     </item>
+	
+	<item>
+        <title>Canal EJTV</title>
+        <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://pbs.twimg.com/media/BthUbgcCQAEEkML.png</thumbnail>
+	</item>
+	
+	
 	
 	<item>
         <title>Canal Ticavision</title>
