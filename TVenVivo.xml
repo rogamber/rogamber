@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+
     <items_info> <!-- this is opitonal -->
       <title>Testing XML</title> <!-- a title is required, other elements are optional -->
       <genre>News</genre>
@@ -11,7 +12,7 @@
     </items_info>
 
     <item>
-        <title>Canal 14 PZ</title>
+        <title>Canal 14 PZ,CR</title>
         <link>http://205.164.56.130:1935/tvsur81/tvsur81/chunklist_w695765533.m3u8</link>
         <genre>TV Costa Rica</genre>
         <info>Canal local Perez Zeledon, Costa Rica</info>
@@ -20,13 +21,95 @@
     </item>
     
 	<item>
-        <title>Canal Colombia</title>
+        <title>Canal FX</title>
         <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/fx-q3.php?index.m3u</link>
-        <genre>TV Mexico</genre>
-        <info>Canal local Colombia</info>
+        <genre></genre>
+        <info></info>
         <fanart></fanart>
-		<thumbnail></thumbnail>
+		<thumbnail>https://i.imgur.com/27XL9YT.jpg</thumbnail>
     </item>
+	
+	<item>
+        <title>Canal Fox</title>
+        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x-q3.php?index.m3u</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/B9WE73s.png</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal Cinema Plus</title>
+        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/cinemaplus-q4.php?index.m3u</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/4QqVDHq.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal Fox Series</title>
+        <link>http://regiotv.xyz/IPTV/foxseries.php</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/5F35wDI.png</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal Fox Action</title>
+        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_action-q3.php?index.m3u</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/8Vb5kv2.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal Fox Family</title>
+        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_family-q3.php?index.m3u</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/uT3M7lL.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal Fox Movies</title>
+        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_movies-q3.php?index.m3u</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/A04zXqz.png</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal Clasics</title>
+        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_classics-q3.php?index.m3u</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/IFeZD7J.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal Comedy</title>
+        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_comedy-q6.php?index.m3u</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/PhHWw7B.jp</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal Cinema</title>
+        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_cinema-q3.php?index.m3u</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://i.imgur.com/byu8ZMS.jpg</thumbnail>
+    </item>
+	
 	
 	
 </items>
