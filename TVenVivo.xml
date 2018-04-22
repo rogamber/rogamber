@@ -39,8 +39,44 @@
     </item>
 	
 	<item>
-        <title>Repretel</title>
-        <link></link>
+        <title>Canal Ticavision</title>
+        <link>http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/17334246_287034935060991_7151647901104472064_n.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>Telered</title>
+        <link>http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://yt3.ggpht.com/-sys_DFyLpPk/AAAAAAAAAAI/AAAAAAAAAAA/QlRMSmx4a-s/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>Telesur CR</title>
+        <link>http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://lh3.googleusercontent.com/p/AF1QipMGTBsQ400Z5umh5mnA8tpCCR3JIOC9cSKhfXoM=s1600-w400</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal TVuno</title>
+        <link>http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8</link>
+        <genre></genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://pbs.twimg.com/profile_images/626211824451457024/jq6sU9MX.png</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal 36 Limon, CR</title>
+        <link>http://servicioamerica.com:1935/8356/8356/chunklist_w136680302.m3u8</link>
         <genre></genre>
         <info></info>
         <fanart></fanart>
