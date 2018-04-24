@@ -22,6 +22,15 @@
 	
 	<item>
         <title>Teletica Canal 7</title>
+        <link>http://stream-01.nyc.dailymotion.com/20/dm/3/x29e3wg/live-0.m3u8</link>
+        <genre>TV Costa Rica</genre>
+        <info>Doutico.com</info>
+        <fanart></fanart>
+		<thumbnail>https://2.bp.blogspot.com/-7oEwdN1QSW4/WtFPDJR87qI/AAAAAAAA19Y/XqpKEyJVOf8xu6UPuLPHe6Tflz_t-FBpgCLcBGAs/s1600/Teletica%2BCanal%2B7.png</thumbnail>
+    </item>
+	
+	<item>
+        <title>Teletica Canal 7</title>
         <link>http://78.129.184.15:11337/streaming/stream/chunklist_w1540329774.m3u8</link>
         <genre>TV Costa Rica</genre>
         <info>Doutico.com</info>
