@@ -50,8 +50,7 @@
 	
 	<item>
         <title>Canal Doutico</title>
-        <link>http://d19a4fd3xmc403.cloudfront.net/cr/canal11/smil:v2.smil/media-uc3m585d2_b1098304_sles_6181.ts
-</link>
+        <link>http://d19a4fd3xmc403.cloudfront.net/cr/canal11/smil:v2.smil/media-uc3m585d2_b1098304_sles_6181.ts</link>
         <genre>TV Costa Rica</genre>
         <info>Doutico.com</info>
         <fanart></fanart>
@@ -62,7 +61,7 @@
     
 	<item>
         <title>Canal Rogamber</title>
-        <link>rtmp://1.3567957.fme.ustream.tv/ustreamVideo/3567957</link>
+        <link>http://d19a4fd3xmc403.cloudfront.net/cr/canal11/smil:v2.smil/chunklist_b1098304_sles.m3u8</link>
         <genre>TV Costa Rica</genre>
         <info>Doutico.com</info>
         <fanart></fanart>
