@@ -56,6 +56,24 @@
 		<thumbnail></thumbnail>
     </item>
 	
+	<item>
+        <title>Extra TV42</title>
+        <link>https://secure-playlist.livestream.com/streams/5637642_2507409_lsip0rd99rtwzi5lf5a_1/media/5637642_2507409_lsip0rd99rtwzi5lf5a_1@198000p.m3u8?dw=14400&token=1524974351_29ad05088cfbbfde4fe9465fb687109d00f125a8&ts=1524798000</link>
+        <genre>TV Costa Rica</genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://tse1.mm.bing.net/th?id=OIP.b2mYNKtCeItult0kcQPB6QHaFU&pid=15.1&P=0&w=209&h=151</thumbnail>
+    </item>
+	
+	<item>
+        <title>Canal 13 CR</title>
+        <link>https://secure-playlist.livestream.com/streams/1532727_8158158_lsieinpltf4p17fhkfv_1/media/1532727_8158158_lsieinpltf4p17fhkfv_1@446000pb.m3u8?dw=14400&token=1524974654_10f77eeeed1f233dca44bd429e7f10f6fae0d0e9&ts=1524801600</link>
+        <genre>TV Costa Rica</genre>
+        <info></info>
+        <fanart></fanart>
+		<thumbnail>https://www.reportv.com.ar/buscador/img/Logos/5092884.jpg</thumbnail>
+    </item>
+	
 	 <item>
         <title>Canal 88 Stereo PZ,CR</title>
         <link>http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8</link>
