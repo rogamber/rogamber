@@ -2,8 +2,8 @@
 
 <item>
 <title>Genius Einstein</title>
-<thumbnail>http://elvortex.com/wp-content/uploads/2017/06/5-things-about-einstein-0-550x268.jpg</thumbnail>
-<fanart>http://images.mi.tv/programs/gt_genius-einstein-s01e07_l_m.jpg</fanart>
+<thumbnail>https://tse4.mm.bing.net/th?id=OIP.-d170-aHkDNngrV_9um4fQHaHa&pid=15.1&P=0&w=300&h=300</thumbnail>
+<fanart>http://elvortex.com/wp-content/uploads/2017/06/5-things-about-einstein-0-550x268.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SerieGeniusEinstein.xml</externallink>
 </item>
@@ -41,9 +41,17 @@
 </item>
 
 <item>
+<title>El Hombre y la Tierra</title>
+<thumbnail>https://i.pinimg.com/originals/ef/3f/bf/ef3fbf169320ed632a82d4294daf9877.jpg</thumbnail>
+<fanart>https://blogbibliotecacid.files.wordpress.com/2017/01/34593-1.jpg?w=615&h=369</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Serie_ElHombreylaTierra.xml</externallink>
+</item>
+
+<item>
 <title>La Biblia</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.ytimg.com/vi/9vZFLbENJoo/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/9vZFLbENJoo/hqdefault.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SerieLaBiblia.xml</externallink>
 </item>
