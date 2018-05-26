@@ -125,4 +125,12 @@
 <urlsolve>https://www.youtube.com/watch?v=ACY4chUVo9Q</urlsolve>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmJxcHpYv-09oMUUqCjR1gmo7BkxCUOr0Yu0ZHmI_ISCwKg4v</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmJxcHpYv-09oMUUqCjR1gmo7BkxCUOr0Yu0ZHmI_ISCwKg4v</fanart>
-</iteem>
+</item>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
