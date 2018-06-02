@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
-    <items_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </items_info>
-
+   
     <item>
         <title>Canal 14 PZ,CR</title>
         <link>http://205.164.56.130:1935/tvsur81/tvsur81/chunklist_w695765533.m3u8</link>
@@ -22,7 +12,7 @@
 	
 	<item>
         <title>Teletica Canal 7</title>
-        <link>http://stream-01.nyc.dailymotion.com/20/dm/3/x29e3wg/live-0.m3u8</link>
+        <link></link>
         <genre>TV Costa Rica</genre>
         <info>Doutico.com</info>
         <fanart></fanart>
@@ -31,7 +21,7 @@
 	
 	<item>
         <title>Teletica Canal 7</title>
-        <link>http://78.129.184.15:11337/streaming/stream/chunklist_w1540329774.m3u8</link>
+        <link></link>
         <genre>TV Costa Rica</genre>
         <info>Doutico.com</info>
         <fanart></fanart>
@@ -58,7 +48,7 @@
 	
 	<item>
         <title>Extra TV42</title>
-        <link>https://secure-playlist.livestream.com/streams/5637642_2507409_lsip0rd99rtwzi5lf5a_1/media/5637642_2507409_lsip0rd99rtwzi5lf5a_1@198000p.m3u8?dw=14400&token=1524974351_29ad05088cfbbfde4fe9465fb687109d00f125a8&ts=1524798000</link>
+        <link></link>
         <genre>TV Costa Rica</genre>
         <info></info>
         <fanart></fanart>
@@ -67,7 +57,7 @@
 	
 	<item>
         <title>Canal 13 CR</title>
-        <link>https://secure-playlist.livestream.com/streams/1532727_8158158_lsieinpltf4p17fhkfv_1/media/1532727_8158158_lsieinpltf4p17fhkfv_1@446000pb.m3u8?dw=14400&token=1524974654_10f77eeeed1f233dca44bd429e7f10f6fae0d0e9&ts=1524801600</link>
+        <link></link>
         <genre>TV Costa Rica</genre>
         <info></info>
         <fanart></fanart>
@@ -157,112 +147,6 @@
 		<thumbnail>http://bit.ly/2BFwSEX</thumbnail>
 	</item>
 	
-	<item>
-        <title>Canal Bein Sport Laliga</title>
-        <link>http://178.162.199.73:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=3274918416&pk=ffaf28c23bad93164d8935f4f71ed26264d4520d88e3e173061b59b3fcf1c776</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>http://verdirectotv.tv/logos/bein-laliga.jpg</thumbnail>
-	</item>
-	<item>
-        <title>Canal Teledeporte</title>
-        <link>http://petu9.pedromo.me/live/teledeporte/index.m3u8?token=BwXy-cmeIlR_G_dAn_kgjg&expires=1524707392</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>http://verdirectotv.tv/logos/teledeporte.png</thumbnail>
-	</item>
+	
 		
-	<item>
-        <title>Canal FX</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/fx-q3.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/27XL9YT.jpg</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Fox</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x-q3.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/B9WE73s.png</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Cinema Plus</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/cinemaplus-q4.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/4QqVDHq.jpg</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Fox Series</title>
-        <link>http://regiotv.xyz/IPTV/foxseries.php</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/5F35wDI.png</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Fox Action</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_action-q3.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/8Vb5kv2.jpg</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Fox Family</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_family-q3.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/uT3M7lL.jpg</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Fox Movies</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_movies-q3.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/A04zXqz.png</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Clasics</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_classics-q3.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/IFeZD7J.jpg</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Comedy</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_comedy-q6.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/PhHWw7B.jpg</thumbnail>
-    </item>
-	
-	<item>
-        <title>Canal Cinema</title>
-        <link>http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/f0x_cinema-q3.php?index.m3u</link>
-        <genre></genre>
-        <info></info>
-        <fanart></fanart>
-		<thumbnail>https://i.imgur.com/byu8ZMS.jpg</thumbnail>
-    </item>
-	
-	
 </items>
