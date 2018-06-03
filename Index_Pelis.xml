@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>Comico</title>
+<title>Comedia</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -38,6 +38,14 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Anime.xml</externallink>
+</item>
+
+<item>
+<title>Anime +12 años </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Anime+12.xml</externallink>
 </item>
 
 <item>
