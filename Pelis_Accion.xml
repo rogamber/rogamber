@@ -366,6 +366,14 @@
 
 <item>
 <title></title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>        
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
