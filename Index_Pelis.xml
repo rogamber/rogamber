@@ -3,7 +3,7 @@
 <item>
 <title>Accion</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://marchionnistefania.files.wordpress.com/2014/05/url.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Accion.xml</externallink>
 </item>
@@ -70,6 +70,14 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Latino.xml</externallink>
+</item>
+
+<item>
+<title>Cine Español</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_España.xml</externallink>
 </item>
 
 <item>
