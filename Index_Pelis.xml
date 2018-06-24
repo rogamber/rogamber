@@ -58,7 +58,7 @@
 
 <item>
 <title>Terror</title>
-<thumbnail></thumbnail>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFvSvaFC4Vc8mcpX-vY_M5PToNyDR5g3Jur990-eYy3J0sj54-Q</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Terror.xml</externallink>
@@ -74,7 +74,7 @@
 
 <item>
 <title>Cine Español</title>
-<thumbnail></thumbnail>
+<thumbnail>https://imagessl0.casadellibro.com/a/l/t0/90/9788467701890.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Espa%C3%B1a.xml</externallink>
@@ -82,7 +82,7 @@
 
 <item>
 <title>Cine Mexicano</title>
-<thumbnail></thumbnail>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HcZFME6hzsIHbFVgJY2VRRo7NzHTSx6jWuTMajbCILKFJ4YkEw</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_CineMX.xml</externallink>
@@ -90,7 +90,7 @@
 
 <item>
 <title>Western</title>
-<thumbnail></thumbnail>
+<thumbnail>https://plared.files.wordpress.com/2012/10/western-cine-clasico-1.png</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Western.xml</externallink>
@@ -98,7 +98,7 @@
  
  <item>
 <title>Cine Clasico</title>
-<thumbnail></thumbnail>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktGe0GmZmi95lwO_KVsmRL28S0ZHoMvmw7CTFzikaubLWnPYYjg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Clasico.xml</externallink>
