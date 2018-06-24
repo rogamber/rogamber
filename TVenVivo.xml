@@ -9,7 +9,7 @@
         <fanart>https://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg?itok=DNBMfb1x</fanart>
 		<thumbnail>https://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg?itok=DNBMfb1x</thumbnail>
     </item>
-	
+		
 	<item>
         <title>Teletica Canal 7</title>
         <link></link>
@@ -38,10 +38,10 @@
     </item>
 	    
 	<item>
-        <title>Camara en Vivo</title>
-        <urlsolve>https://www.ok.ru/video/1208537325200</urlsolve>
+        <title>Peliculas en Vivo</title>
+        <urlsolve>https://www.youtube.com/watch?v=72_bCJofd7w</urlsolve>
         <genre></genre>
-        <info>Camara en Vivo</info>
+        <info>Peliculas en Vivo</info>
         <fanart></fanart>
 		<thumbnail></thumbnail>
     </item>
