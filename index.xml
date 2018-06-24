@@ -2,7 +2,7 @@
  
 <item>
 <title>Series</title>
-<thumbnail></thumbnail>
+<thumbnail>http://www.alien-tech.com.ar/series/img/series.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/series.xml</externallink>
@@ -10,7 +10,7 @@
  
 <item>
 <title>Peliculas</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/L5AN1S89URY/maxresdefault.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Index_Pelis.xml</externallink>
@@ -18,7 +18,7 @@
  
 <item>
 <title>TV Online</title>
-<thumbnail></thumbnail>
+<thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2016/10/verenvivo.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/TVenVivo.xml</externallink>
