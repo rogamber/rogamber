@@ -434,16 +434,16 @@ Robocop salva el día una vez más. Esta vez, el robot mitad hombre / mitad se e
 </item>
 
 <item>
-<title>Prueba Vaughn TV</title>        
-<vaughn>a_ver_terror</vaughn>
+<title>Prueba f4m</title>        
+<vaughn>https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_a_ver_terror</vaughn>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>Prueba 2 Vaught TV</title>        
-<link>https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_a_ver_terror</link>
+<title>prueba f4m 2</title>        
+<f4m>https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_a_ver_terror</f4m>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
