@@ -426,7 +426,7 @@ Robocop salva el día una vez más. Esta vez, el robot mitad hombre / mitad se e
 </item>
 
 <item>
-<title>Gigantes de Acero</title>        
+<title></title>        
 <link></link>
 <thumbnail></thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
@@ -434,8 +434,8 @@ Robocop salva el día una vez más. Esta vez, el robot mitad hombre / mitad se e
 </item>
 
 <item>
-<title>Prueba f4m</title>        
-<f4m>https://www.pelis24.net/documentales/recovery-boys.html</f4m>
+<title></title>        
+<f4m></f4m>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -451,16 +451,9 @@ Robocop salva el día una vez más. Esta vez, el robot mitad hombre / mitad se e
 
 <item>
 <title>El Cuervo Diskocosmico link2</title>        
-<link>http://diskokosmiko.mx/chinchetas/peliculas-drama-105725/el-cuervo,2008219.avi</link>
+<disko>http://diskokosmiko.mx/chinchetas/peliculas-drama-105725/el-cuervo,2008219.avi</disko>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
-<item>
-<title>El Cuervo Diskocosmico urlsolve</title>        
-<urlsolve>http://diskokosmiko.mx/chinchetas/peliculas-drama-105725/el-cuervo,2008219.avi</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
