@@ -3,6 +3,8 @@
 <link>https://my.mail.ru/mail/pelis.free/video/_myvideo/32.html</link>
 <thumbnail>http://img.desmotivaciones.es/201109/ElMariachi1992.jpg</thumbnail>
 <fanart>http://img.desmotivaciones.es/201109/ElMariachi1992.jpg</fanart>
+<servidor></servidor>
+<info>Servidor My.mail.ru</info>
 </item>
 
 <item>
@@ -11,6 +13,8 @@
 <thumbnail>http://www.lt9.com.ar/uploads/agenda/16041_04-01-18_19-11.jpg</thumbnail>
 <fanart>http://www.lt9.com.ar/uploads/agenda/16041_04-01-18_19-11.jpg</fanart>
 <info>Una noche en el verano más caluroso en 20 años, Leandro De La Torre, famoso cantante punk, sale disparado por una ventana e impacta sobre el techo de un auto. Es el día de su cumpleaños número 27. Paula, una joven fan de veintipocos años, graba todo con su celular. Lejos está de saber que en aquel video está la clave detrás del asesinato del músico.</info>
+<servidor></servidor>
+<info></info>
 </item>
 
 <item>
@@ -18,6 +22,8 @@
 <link>https://www.youtube.com/watch?v=CQKa5NubuLA</urlsolve>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51lruxOGyRL._SY445_.jpg</link>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/51lruxOGyRL._SY445_.jpg</fanart>
+<servidor></servidor>
+<info>servidor Youtube</info>
 </item>
 
 <item>
@@ -25,4 +31,6 @@
 <link>http://diskokosmiko.mx/naredo/el-leon-melquiades-20471/el-leon-melquiades-capitulo-01,76151.mp4</link>
 <thumbnail>https://i.pinimg.com/originals/d5/5d/52/d55d52eabf19637f88a1d020860179a1.png</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/51lruxOGyRL._SY445_.jpg</fanart>
+<servidor></servidor>
+<info>servidor Diskokosmico</info>
 </item>
