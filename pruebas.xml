@@ -1,7 +1,16 @@
 
 <item>
-<title>Openload</title>        
+<title>Openload link</title>        
 <link></link>
+<icono></icono>
+<fanart>http://www.adnradio.cl/images_remote/337/3378305_n_vir3.jpg?u=804260</fanart>
+<servidor>opl</servidor>
+<info>servidor openload</info>
+</item>
+
+<item>
+<title>Openload urlsolve</title>        
+<urlsolve></urlsolve>
 <icono></icono>
 <fanart>http://www.adnradio.cl/images_remote/337/3378305_n_vir3.jpg?u=804260</fanart>
 <servidor>opl</servidor>
@@ -22,7 +31,6 @@
 <urlsolve>https://www.ok.ru/video/700690205315</urlsolve>
 <icono>http://www.lt9.com.ar/uploads/agenda/16041_04-01-18_19-11.jpg</icono>
 <fanart>http://www.lt9.com.ar/uploads/agenda/16041_04-01-18_19-11.jpg</fanart>
-<servidor>ok.ru</servidor>
 <info>Una noche en el verano más caluroso en 20 años, Leandro De La Torre, famoso cantante punk, sale disparado por una ventana e impacta sobre el techo de un auto. Es el día de su cumpleaños número 27. Paula, una joven fan de veintipocos años, graba todo con su celular. Lejos está de saber que en aquel video está la clave detrás del asesinato del músico.</info>
 </item>
  
@@ -31,16 +39,14 @@
 <link></link>
 <icono>https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Inferno.MoviePoster.png/220px-Inferno.MoviePoster.png</icono>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/51lruxOGyRL._SY445_.jpg</fanart>
-<servidor>Youtube</servidor>
 <info>servidor Youtube</info>
 </item>
 
 <item>
 <title>Kbagi</title>        
-<link></link>
+<kbagi></kbagi>
 <icono></icono>
 <fanart>http://www.adnradio.cl/images_remote/337/3378305_n_vir3.jpg?u=804260</fanart>
-<servidor>kbagi</servidor>
 <info>servidor Kbagi</info>
 </item>
  
@@ -51,6 +57,5 @@
 <disko>http://diskokosmiko.mx/naredo/gasparin-y-sus-amigos-serie-animada-107822/gasparin-y-sus-amigos-01,2065447.avi</disko>
 <icono>https://static.comicvine.com/uploads/scale_small/0/3125/5896983-gas35.jpg</icono>
 <fanart>http://www.adnradio.cl/images_remote/337/3378305_n_vir3.jpg?u=804260</fanart>
-<servidor>disko</servidor>
 <info>servidor Diskokosmico</info>
 </item>
