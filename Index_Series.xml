@@ -2,8 +2,8 @@
 
 <item>
 <title>Series Retro</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81cNxi1MjWL._SL1500_.jpg</thumbnail>
-<fanart>http://images.mi.tv/programs/gt_genius-einstein-s01e07_l_m.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/8NfcYxYJOGQ/hqdefault.jpg</thumbnail>
+<fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SeriesRetro.xml</externallink>
 </item>
@@ -11,7 +11,7 @@
 <item>
 <title>Series Anime</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SeriesAnime.xml</externallink>
 </item>
@@ -19,7 +19,7 @@
 <item>
 <title>Novelas</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Novelas.xml</externallink>
 </item>
@@ -27,15 +27,15 @@
 <item>
 <title>Series Recientes</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SeriesAnime.xml</externallink>
 </item>
 
 <item>
 <title>Historias de la Biblia</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91ecug2XI%2BL._SY445_.jpg</thumbnail>
-<fanart>https://http2.mlstatic.com/bonanza-serie-de-tv-en-espanol-lat-D_NQ_NP_683305-MLU20866539623_082016-F.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Novelas.xml</externallink>
 </item>
