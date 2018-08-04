@@ -10,7 +10,7 @@
 
 <item>
 <title>Series Anime</title>
-<thumbnail></thumbnail>
+<thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2016/03/01/01/54751861.jpg</thumbnail>
 <fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SeriesAnime.xml</externallink>
@@ -18,15 +18,15 @@
 
 <item>
 <title>Novelas</title>
-<thumbnail></thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51gUwquKKQL._SX313_BO1,204,203,200_.jpg</thumbnail>
 <fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Novelas.xml</externallink>
 </item>
 
 <item>
-<title>Series Recientes</title>
-<thumbnail></thumbnail>
+<title>Series TV</title>
+<thumbnail>https://pbs.twimg.com/profile_images/1651759379/_SeriesTVes.jpg</thumbnail>
 <fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/SeriesRecientes.xml</externallink>
@@ -34,7 +34,7 @@
 
 <item>
 <title>Historias de la Biblia</title>
-<thumbnail></thumbnail>
+<thumbnail>https://www.todobiblia.com/eu/media/catalog/product/2/9/297.jpg</thumbnail>
 <fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/LaBiblia.xml</externallink>
