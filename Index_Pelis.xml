@@ -96,10 +96,18 @@
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Western.xml</externallink>
 </item>
  
- <item>
+<item>
 <title>Cine Clasico</title>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktGe0GmZmi95lwO_KVsmRL28S0ZHoMvmw7CTFzikaubLWnPYYjg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Clasico.xml</externallink>
+</item>
+
+<item>
+<title>Historias de la Biblia</title>
+<thumbnail>https://www.todobiblia.com/eu/media/catalog/product/2/9/297.jpg</thumbnail>
+<fanart>https://www.softzone.es/app/uploads/2017/02/kodi.jpg?x=634&y=309</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/LaBiblia.xml</externallink>
 </item>
