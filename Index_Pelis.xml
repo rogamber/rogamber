@@ -7,6 +7,22 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Accion.xml</externallink>
 </item>
+
+<item>
+<title>Guerra</title>
+<thumbnail></thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Belico.xml</externallink>
+</item>
+ 
+ <item>
+<title>Super Heroes</title>
+<thumbnail></thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Super_Heroes.xml</externallink>
+</item>
  
 <item>
 <title>Artes Marciales</title>
