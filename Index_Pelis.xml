@@ -9,11 +9,19 @@
 </item>
 
 <item>
-<title>Guerra</title>
+<title>Belico</title>
 <thumbnail>https://www.claret.cat/thumbnail/9788491801900.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Belico.xml</externallink>
+</item>
+
+<item>
+<title>Ciencia Ficcion</title>
+<thumbnail>https://image.slidesharecdn.com/presentacin1-150512182121-lva1-app6892/95/trabajo-ciencia-ficcin-1-638.jpg?cb=1431454937</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Ciencia_Ficcion.xml</externallink>
 </item>
  
  <item>
