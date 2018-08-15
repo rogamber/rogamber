@@ -24,7 +24,7 @@
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Ciencia_Ficcion.xml</externallink>
 </item>
  
- <item>
+<item>
 <title>Super Heroes</title>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ4MzYwNDg5NF5BMl5BanBnXkFtZTgwMDczNTA2MDE@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
@@ -38,6 +38,14 @@
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Artes_Marciales.xml</externallink>
+</item>
+
+<item>
+<title>Deportes</title>
+<thumbnail>https://image.slidesharecdn.com/informatica1-160411161250/95/deportes-1-638.jpg?cb=1460391234</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Deportes.xml</externallink>
 </item>
 
 <item>
