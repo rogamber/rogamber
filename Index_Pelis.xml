@@ -9,6 +9,22 @@
 </item>
 
 <item>
+<title>Aviones</title>
+<thumbnail></thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Aviones.xml</externallink>
+</item>
+
+<item>
+<title>Barcos y Piratas</title>
+<thumbnail></thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rogamber/rogamber/master/Pelis_Barcos.xml</externallink>
+</item>
+
+<item>
 <title>Belico</title>
 <thumbnail>https://www.claret.cat/thumbnail/9788491801900.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
