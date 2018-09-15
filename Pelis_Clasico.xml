@@ -181,15 +181,16 @@
 </item>
 
 <item>
-<title>¿Qué sucedió entonces?</title>        
-<urlsolve>https://www.ok.ru/video/860490631811</urlsolve>
+<title></title>        
+<urlsolve>https://www.ok.ru/video/805712169603</urlsolve>
 <thumbnail></thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <genero></genero>
 <anio></anio>
 <info></info>
-<id_tmdb>26912</id_tmdb>
+<id_tmdb></id_tmdb>
 </item>
+
 
 <item>
 <title></title>        
@@ -199,6 +200,7 @@
 <genero></genero>
 <anio></anio>
 <info></info>
+<id_tmdb></id_tmdb>
 </item>
 
 <item>
@@ -207,4 +209,5 @@
 <thumbnail></thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <info></info>
+<id_tmdb></id_tmdb>
 </item>
