@@ -177,7 +177,18 @@
 <thumbnail>https://4.bp.blogspot.com/-mBD92o-d8KA/WJz3BkWwErI/AAAAAAAAGh8/FISsi3QHFKEhv-EGS_I27qKOWbrjn1ptACLcB/s1600/pelicula-ben-hur-1959.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-mBD92o-d8KA/WJz3BkWwErI/AAAAAAAAGh8/FISsi3QHFKEhv-EGS_I27qKOWbrjn1ptACLcB/s1600/pelicula-ben-hur-1959.jpg</fanart>
 <info></info>
-<id_tmdb></id_tmdb>
+<id_tmdb>665</id_tmdb>
+</item>
+
+<item>
+<title>¿Qué sucedió entonces?</title>        
+<urlsolve>https://www.ok.ru/video/860490631811</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
+<genero></genero>
+<anio></anio>
+<info></info>
+<id_tmdb>26912</id_tmdb>
 </item>
 
 <item>
@@ -185,7 +196,7 @@
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<genero>clasico</genero>
+<genero></genero>
 <anio></anio>
 <info></info>
 </item>
