@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Los Viajes de Gulliver</title>        
-<link>https://my.mail.ru/bk/pelicula.pelicula/video/_myvideo/5108.html</link>
-<thumbnail>https://www.ecartelera.com/carteles/4000/4043/002_p.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
-</item>
-
-<item>
 <title>Luna de Miel en Familia</title>        
 <urlsolve>https://www.ok.ru/video/410409831065</urlsolve>
 <thumbnail>http://1.bp.blogspot.com/-H3w5Hy3rQJ4/U_4F0hy7I1I/AAAAAAAAeEw/xjFbUiN3VSM/s1600/LUNA%2BDE%2BMIEL%2BEN%2BFAMILIA.jpg</thumbnail>
@@ -37,7 +29,7 @@
 <link>https://my.mail.ru/mail/donjhon/video/_myvideo/80.html</link>
 <thumbnail>https://i.hungrygowhere.com/cms/f0/18/51/2d/96750/81116e71ce_345x518_00fb4e96f5.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
+<id_tmdb>116741</id_tmdb>
 </item>
 
 <item>
@@ -54,7 +46,7 @@
 <link>https://my.mail.ru/mail/pelis.free/video/_myvideo/29.html</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2Jx6yoOZRz7Ys9PmdFnEUazUdoot3TRVsWONM91nZVuqbEx9FQ</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
+<id_tmdb>12110</id_tmdb>
 </item>
 
 <item>
@@ -62,40 +54,32 @@
 <urlsolve>https://ok.ru/video/627607931473</urlsolve>
 <thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2014/03/26/20/42511221.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
+<id_tmdb>77301</id_tmdb>
 </item>
 
 <item>
-<title>Par Impar (1978)</title>        
-<urlsolve>https://ok.ru/video/442454313553</urlsolve>
-<thumbnail>http://www.hispashare.com/images/cover.php?id=16777</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
-</item>
-
-<item>
-<title>No te metas con Zohan (2008)</title>        
+<title>No te metas con Zohan</title>        
 <urlsolve>https://ok.ru/video/857397463572</urlsolve>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <info>Zohan quiere dejar atrás su pasado como agente antiterrorista del Mossad y marchar a los Estados Unidos donde aspira a convertirse en un famoso peluquero. No duda, para lograrlo, en hacer creer a todo el mundo en Israel que ha muerto en acto de servicio con el fin de poder marchar con total libertad a Nueva York. Allí logra sus propósitos y, en un muy corto espacio de tiempo, se convierte en uno de los peluqueros más solicitados del lugar. Sin embargo, su antigua vida sigue persiguiéndole y Zohan se tendrá que enfrentar a nuevos agentes enviados con la misión de eliminarlo totalmente.</info>
-<id_tmdb></id_tmdb>
+<id_tmdb>10661</id_tmdb>
 </item>
 
 <item>
-<title>Año 1</title>        
+<title>Año uno</title>        
 <urlsolve>https://ok.ru/video/87144794680</urlsolve>
 <thumbnail>http://blueprintreview.co.uk/wp-content/uploads/2010/09/Year-One.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
+<id_tmdb>17610</id_tmdb>
 </item>
 
 <item>
-<title>Grows Up (2010)</title>        
+<title>Niños grandes</title>        
 <urlsolve>https://ok.ru/video/209561389640</urlsolve>
 <thumbnail>http://4.bp.blogspot.com/_LQQ5FS2UDbY/TNjPPbcDqBI/AAAAAAAACvs/9d5UJnKGuoE/s1600/Grown+UPs.JPG</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
+<id_tmdb>38365</id_tmdb>
 </item>
 
 <item>
@@ -103,33 +87,33 @@
 <urlsolve>https://ok.ru/video/206805142088</urlsolve>
 <thumbnail>https://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/3/0/7/8436022320703/tsp20150420171140/Los-dioses-deben-estar-locos.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
+<id_tmdb>8393</id_tmdb>
 </item>
 
 <item>
-<title>Los dioses deben estar locos</title>        
+<title>Los dioses deben estar locos 2</title>        
 <urlsolve>https://ok.ru/video/206813596232</urlsolve>
 <thumbnail>http://www.videomaniaticos.com/img_pel/losdioseslocos.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<id_tmdb></id_tmdb>
+<id_tmdb>11937</id_tmdb>
 </item>
 
 <item>
-<title>The Interview (2014) </title>        
+<title>The Interview</title>        
 <urlsolve>https://my.mail.ru/bk/pelicula.pelicula/video/_myvideo/587.html</urlsolve>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81A0OuOIQQL._SY445_.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <info>The Interview es una película de comedia de acción estadounidense de 2014 producida y dirigida por Seth Rogen y Evan Goldberg en su segundo trabajo como director, después de This Is the End (2013). El guión es de Dan Sterling, basado en una historia en la que es coautor de Rogen y Goldberg. La película está protagonizada por Rogen y James Franco como periodistas que establecieron una entrevista con el líder norcoreano Kim Jong-un (Randall Park), y son reclutados por la CIA para asesinarlo. La película también está fuertemente inspirada en un documental de Vice que se filmó en 2012.</info>
-<id_tmdb></id_tmdb>
+<id_tmdb>228967</id_tmdb>
 </item>
 
 <item>
-<title>Zombiland (2009)</title>        
+<title>Zombiland</title>        
 <ol>https://openload.co/embed/llYoYzKE3rk/</ol>
 <thumbnail>http://2.bp.blogspot.com/_76Wrjc26kM0/S1AGCVWWe1I/AAAAAAAAA1k/MLNiNLpC5M0/s400/zombieland.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <info>Después de que un virus convierte a la mayoría de las personas en zombis, los humanos sobrevivientes del mundo permanecen encerrados en una batalla en curso contra los muertos vivientes hambrientos. Cuatro supervivientes: Tallahassee (Woody Harrelson) y sus cohortes Columbus (Jesse Eisenberg), Wichita (Emma Stone) y Little Rock (Abigail Breslin): respetan una lista de reglas de supervivencia y estrategias para matar zombis a medida que avanzan hacia un rumorado refugio seguro en Los Ángeles.</info>
-<id_tmdb></id_tmdb>
+<id_tmdb>19908</id_tmdb>
 </item>
 
 <item>
