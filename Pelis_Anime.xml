@@ -494,9 +494,19 @@
 </item>
 
 <item>
+<title>Extraterrestres de Tellur</title>        
+<urlsolve>https://www.ok.ru/video/805711776387</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
+<info></info>
+<id_tmdb>429047</id_tmdb>
+</item>
+
+<item>
 <title></title>        
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
 <info></info>
+<id_tmdb></id_tmdb>
 </item>
