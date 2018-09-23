@@ -196,12 +196,16 @@
 
 <item>
 <title></title>        
-<urlsolve></urlsolve>
+<ol></ol>
 <thumbnail></thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/859590453473271808/SSRQ1u9b_400x400.jpg</fanart>
-<genero></genero>
-<anio></anio>
 <info></info>
+<id_tmdb></id_tmdb>
+</item>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
 <id_tmdb></id_tmdb>
 </item>
 
