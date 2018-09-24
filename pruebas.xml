@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Vengadores: Infinity War (2018)</title>        
 <url>https://openload.co/embed/e3Rp-a6Q7JI/</url>
-<mode>63</mode>
+<mode>1</mode>
+<folder>False</folder>
 <id_tmdb>299536</id_tmdb> 
 </item>
 
 <item>
-<title></title>        
 <url></url>
-<mode></mode>
-<id_tmdb></id_tmdb> 
-</item>
-
-<item>
-<title></title>        
-<url></url>
-<mode></mode>
-<id_tmdb></id_tmdb> 
-</item>
-
-<item>
-<title></title>        
-<url></url>
-<mode></mode>
+<mode>0</mode>
+<folder>False</folder>
 <id_tmdb></id_tmdb> 
 </item>
