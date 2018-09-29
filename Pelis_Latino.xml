@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>La carga</title>        
+<urlsolve>https://www.ok.ru/video/897595148931</urlsolve>
+<id_tmdb>295460</id_tmdb>
+</item>
+
+<item>
 <title>Desierto</title>        
 <urlsolve>https://www.ok.ru/video/967988808324</urlsolve>
 <thumbnail></thumbnail>
