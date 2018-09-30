@@ -282,17 +282,14 @@ La cinta transcurre en el año 1985, una época en la que el joven Marty McFly l
 <item>
 <title>Ovnis sobre China</title>        
 <urlsolve>https://ok.ru/video/863457774161</urlsolve>
-<thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/kxDPocs3DA7mw6D8baLxvEbAEjd.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w300_and_h450_bestv2/kxDPocs3DA7mw6D8baLxvEbAEjd.jpg</fanart>
-<genero>ciencia ficcion</genero>
-<anio></anio> 
-<info></info>
+<categoria>ciencia ficcion</categoria>
 <id_tmdb>25808</id_tmdb>
 </item>
 
 <item>
 <title>¿Qué sucedió entonces?</title>        
 <ol></ol>
+<categoria>ciencia ficcion</categoria>
 <id_tmdb>26912</id_tmdb>
 </item>
 
