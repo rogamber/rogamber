@@ -29,12 +29,12 @@
     </item>
 		
 	<item>
-        <title>Canal Doutico</title>
-        <link>https://d19a4fd3xmc403.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8</link>
+        <title>Facebook</title>
+        <urlsolve>https://www.facebook.com/FPDCostaRica506/videos/492649501230112/</urlsolve>
         <genre>TV Costa Rica</genre>
-        <info>Doutico.com</info>
+        <info></info>
         <fanart></fanart>
-		<thumbnail>https://lh3.ggpht.com/xgUZToq3X6gusCAtAgxl8VCCzLBb0mVw2SCqiaBys60-cxNLhj-5bh6Ro3FzsrLk2g=w720-h310</thumbnail>
+		<thumbnail></thumbnail>
     </item>
 	    
 	<item>
