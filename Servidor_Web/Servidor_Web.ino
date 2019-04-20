@@ -11,9 +11,9 @@ char c="";
 String peticion = "";
 const int s1 = 3;//de define Dispositivo 1 en salida Digital #3
 const int s2 = 4;//de define Dispositivo 1 en salida Digital #4
-bool s3=0;
-bool s4=0;
-bool s5=0;
+const int s3 = 5;//de define Dispositivo 1 en salida Digital #5
+const int s4 = 6;//de define Dispositivo 1 en salida Digital #6
+const int s5 = 7;//de define Dispositivo 1 en salida Digital #7
 bool estado[4];
 
 void setup()
@@ -24,7 +24,13 @@ void setup()
     digitalWrite(s1,LOW);
     pinMode(s2, OUTPUT);
     digitalWrite(s2,LOW);
-    
+    pinMode(s3, OUTPUT);
+    digitalWrite(s3,LOW);
+    pinMode(s4, OUTPUT);
+    digitalWrite(s4,LOW);
+    pinMode(s5, OUTPUT);
+    digitalWrite(s5,LOW);
+       
     Serial.begin(9600);       // for debugging
         
     Ethernet.begin(mac, ip);  // initialize Ethernet device
@@ -75,19 +81,22 @@ void loop()
         else {
            client.println("<p>Apagar <a href='accion02'>Dispositivo 2</a></p>");
              }         
-        if (s3 == 0){
+        estado[2] = digitalRead(s3);
+        if (estado[2] == LOW){
            client.println("<p>Encender <a href='accion03'>Dispositivo 3</a></p>");
                     }
         else {
            client.println("<p>Apagar <a href='accion03'>Dispositivo 3</a></p>");
              }  
-        if (s4 == 0){
+        estado[3] = digitalRead(s4);
+        if (estado[3] == LOW){
            client.println("<p>Encender <a href='accion04'>Dispositivo 4</a></p>");
                     }
         else {
            client.println("<p>Apagar <a href='accion04'>Dispositivo 4</a></p>");
              }  
-        if (s5 == 0){
+        estado[4] = digitalRead(s5);
+        if (estado[4] == LOW){
            client.println("<p>Encender <a href='accion05'>Dispositivo 5</a></p>");
                     }
         else {
@@ -127,28 +136,28 @@ void loop()
                                                 } 
                        
                    if (peticion == "GET /accion03"){
-                            if (s3==0){
-                               s3=1; 
-                                }
-                            else {
-                               s3=0; 
-                                 }         
+                                    if (estado[2]==LOW){
+                                       digitalWrite(s3,HIGH);  
+                                                       }
+                                    else {
+                                         digitalWrite(s3,LOW);   
+                                         }                   
                                                   } 
                    if (peticion == "GET /accion04"){
-                            if (s4==0){
-                               s4=1; 
-                                }
-                            else {
-                               s4=0; 
-                                 }         
+                                    if (estado[3]==LOW){
+                                       digitalWrite(s4,HIGH);  
+                                      }
+                                    else {
+                                         digitalWrite(s4,LOW);   
+                                         }         
                                                   } 
                    if (peticion == "GET /accion05"){
-                           if (s5==0){
-                                 s5=1; 
-                                }
-                           else {
-                               s5=0; 
-                                }         
+                                    if (estado[1]==LOW){
+                                        digitalWrite(s5,HIGH);  
+                                                       }
+                                     else {
+                                          digitalWrite(s5,LOW);   
+                                          }         
                                                   }                           
                   
                    client.stop();   
